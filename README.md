@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
    <p align="left"> 
       <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/wellingtonpawlino?color=D2691E&labelColor=D2691E&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/wellingtonpawlino?color=A0522D&labelColor=D2691E&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wellingtonpawlino?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
