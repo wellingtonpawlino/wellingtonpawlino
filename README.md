@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 
 ---
 
-          
+ <a href="https://github.com/wellingtonpawlino?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wellingtonpawlino?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>        
           
           
 
