@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 <!--
 **wellingtonpawlino/wellingtonpawlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,13 +41,6 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
 
-
-          
-<br />
-<br />
-
----
-
 <br/>
 <br/>
 
@@ -69,9 +63,3 @@ Here are some ideas to get you started:
   />
 
 </p>
-
-
-          
-
-            
-          
