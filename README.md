@@ -41,4 +41,4 @@
 
 ## 🐍 Animação de Contribuições  
 
-![Snake animation](https://github.com/wellingtonpawlino/wellingtonpawlino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/wellingtonpawlino/output/github-contribution-grid-snake.svg)
