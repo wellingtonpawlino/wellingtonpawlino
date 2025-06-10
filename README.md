@@ -32,13 +32,10 @@
 
 ## 📊 Estatísticas  
 
-<p>  
-   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"  
-        src="https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>  
-</p>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&layout=compact)](https://github.com/wellingtonpawlino/github-readme-stats)  
-
-## 🐍 Animação de Contribuições  
-
-![Snake animation](https://raw.githubusercontent.com/wellingtonpawlino/output/github-contribution-grid-snake.svg)
+<table>
+  <tr>
+    <td><img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/></td>
+    <td><img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&layout=compact"/></td>
+    <td><img alt="Snake animation" height="180" src="https://github.com/wellingtonpawlino/wellingtonpawlino/blob/output/github-contribution-grid-snake.svg"/></td>
+  </tr>
+</table>
