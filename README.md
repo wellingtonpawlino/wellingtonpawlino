@@ -47,12 +47,9 @@
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
 
 </p>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino)](https://github.com/anuraghazra/github-readme-stats)
 
 #
