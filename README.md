@@ -47,14 +47,28 @@ Here are some ideas to get you started:
 
 ---
 
-<br />
- <br />
+<br/>
+<br/>
 
-### 📊 Stats
+### 📊 Estatísticas
 
-![wellingtonpawlino's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=gruvbox)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=wellingtonpawlino&theme=gruvbox&border_radius=4.5) -->
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
           
