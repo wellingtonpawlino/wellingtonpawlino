@@ -1,21 +1,5 @@
 ## Hi there 👋
 
-🔍 Profissional de Dados | Analista de Dados | Cientista de Dados
-
-Com uma sólida experiência na área de dados desde 2014, atuo em um perfil híbrido que me permitiu trabalhar em grandes empresas nacionais e multinacionais, abrangendo diversos segmentos como varejo, telecomunicação e finanças. Minha trajetória é marcada pela busca constante de soluções inovadoras e pela aplicação de dados para gerar insights estratégicos.
-
-💻 Competências Técnicas:
-- Domínio das principais ferramentas e linguagens do mercado, incluindo Python, R, SQL Server, Databricks, Power BI, Tableau, Looker, Shiny, RStudio e Alteryx.
-- Experiência em análise de dados, visualização e criação de dashboards que impactam diretamente nas decisões de negócios.
-
-🌟 Soft Skills:
-- Apaixonado por desbravar assuntos complexos que possuem alto impacto no negócio.
-- Aprendo rapidamente e me adapto às mudanças, sempre em busca de novas soluções e tendências no universo dos dados.
-- Comprometido com o desenvolvimento contínuo e a atualização de conhecimentos na área de dados.
-
-Estou sempre aberto a novas oportunidades e desafios que me permitam contribuir para o crescimento das organizações através da análise e interpretação de dados.
-
-Vamos nos conectar!
 
 <!--
 **wellingtonpawlino/wellingtonpawlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
