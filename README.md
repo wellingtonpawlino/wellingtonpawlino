@@ -37,7 +37,7 @@
     <td><img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/></td>
     <td>
       <a href="https://github.com/wellingtonpawlino/github-readme-stats">
-        <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&layout=donut-vertical"/>
+        <img alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&langs_count=8"/>
       </a>
     </td>
     <td><img alt="Snake animation" height="200" src="https://github.com/wellingtonpawlino/wellingtonpawlino/blob/output/github-contribution-grid-snake.svg"/></td>
