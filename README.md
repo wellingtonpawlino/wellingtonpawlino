@@ -40,6 +40,6 @@
         <img alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&langs_count=8"/>
       </a>
     </td>
-    <td><img alt="Snake animation" height="200" src="https://github.com/wellingtonpawlino/wellingtonpawlino/blob/output/github-contribution-grid-snake.svg"/></td>
+
   </tr>
 </table>
