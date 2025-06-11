@@ -2,7 +2,7 @@
 
 **`Data Analytics`**  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wellington%20Santos&fontSize=40&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wellington%20Paulino&fontSize=40&fontColor=fff&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A80D&size=22&width=500&lines=Bem-vindo+ao+meu+GitHub!;Sou+especialista+em+Data+Analytics!;Explorando+novas+tecnologias!)](https://git.io/typing-svg)
 
