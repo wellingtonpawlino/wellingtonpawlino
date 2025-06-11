@@ -47,9 +47,11 @@
     <td><img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/></td>
     <td>
       <a href="https://github.com/wellingtonpawlino/github-readme-stats">
-        <img alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&langs_count=8"/>
+        <img alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&layout=compact&langs_count=8"/>
       </a>
     </td>
-
+        
   </tr>
 </table>
+
+
