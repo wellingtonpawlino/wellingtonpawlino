@@ -19,6 +19,10 @@
       <img alt="LinkedIn Profile" title="Connect with me on LinkedIn"  
            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>  
    </a>  
+   <a href="https://www.youtube.com/@wellingtonsantos9019" target="_blank">
+   <img alt="YouTube Channel" title="Inscreva-se no meu canal no YouTube!" 
+        src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </p>  
 
 ## 🧰 Linguagens e Tecnologias  
