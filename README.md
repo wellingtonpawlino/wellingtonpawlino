@@ -2,7 +2,13 @@
 
 **`Data Analytics`**  
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A80D&size=22&width=500&lines=Bem-vindo+ao+meu+GitHub!;Sou+especialista+em+Data+Analytics!;Explorando+novas+tecnologias!)](https://git.io/typing-svg)
+
+
+
 <p align="left">  
+   
    <a href="https://github.com/wellingtonpawlino?tab=followers">  
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/wellingtonpawlino?color=A0522D&labelColor=D2691E&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>  
    </a>  
