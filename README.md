@@ -52,7 +52,6 @@
       <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=wellingtonpawlino&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>
     </td>
     <td>
-      <img alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&layout=compact&langs_count=8"/>
-    </td>
+    <img alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonpawlino&layout=donut&theme=dracula"/>    </td>
   </tr>
 </table>
